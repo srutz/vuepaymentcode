@@ -7,6 +7,8 @@
 
 ## Usage
 
+Copy the file ```EuropeanPaymentCodeRenderer.vue``` into your project and use it as shown below.
+
 ```javascript
 <div style="width: 320px">
     <EuropeanPaymentCodeRenderer :code="{
