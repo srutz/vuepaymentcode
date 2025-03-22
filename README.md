@@ -9,6 +9,15 @@
 
 Copy the file ```EuropeanPaymentCodeRenderer.vue``` into your project and use it as shown below.
 
+Dependencies are
+
+```bash
+npm install qrcode
+npm i -D @types/qrcode
+```
+
+Then use like this:
+
 ```javascript
 <div style="width: 320px">
     <EuropeanPaymentCodeRenderer :code="{
