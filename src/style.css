@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+html, body {
+    @apply flex flex-col;
+    height: 100vh;
+}
+
+#app {
+    @apply h-1 grow flex flex-col;
+}
+
+button {
+    @apply cursor-pointer bg-blue-500 text-white font-bold py-2 px-4 rounded hover:bg-blue-700;
+}
