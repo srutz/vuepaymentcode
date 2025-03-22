@@ -1,8 +1,11 @@
-# Vue 3 + TypeScript + Vite
 
-## European Payment Code
+# European Payment Code
 
-Usage
+
+![Payment Code](paymentcode.png)
+
+
+## Usage
 
 ```javascript
 <div style="width: 320px">
