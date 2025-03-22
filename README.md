@@ -20,6 +20,9 @@ Copy the file ```EuropeanPaymentCodeRenderer.vue``` into your project and use it
 </div>
 ```
 
+The example uses tailwind, but the actual component does not use tailwind. You can style it as you like.
+The size is determined by the width of the parent element.
+
 ## Source
 
 [GitHub Repository](https://github.com/srutz/vuepaymentcode)
